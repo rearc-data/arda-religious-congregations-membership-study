@@ -4,7 +4,7 @@
 
 # U.S. Religion Census: Religious Congregations and Membership Study, 2010
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-rbanz6gbuckc6](https://aws.amazon.com/marketplace/pp/prodview-rbanz6gbuckc6). 
 
 ## Main Overview
 
